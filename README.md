@@ -663,3 +663,6 @@ Academic project — all rights reserved.
 <p align="center">
   Built with FastAPI, React, and Google Gemini AI
 </p>
+## Update
+
+Minor README update.
